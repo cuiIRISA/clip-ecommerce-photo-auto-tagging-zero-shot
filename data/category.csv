@@ -1,0 +1,107 @@
+Category,Attribute1,Attribute2,Attribute3,Attribute4,Attribute5
+Avant-Garde,Experimental,Innovative,Unconventional,Edgy,Futuristic
+Athleisure,Functional,Comfortable,Sporty,Casual,Modern
+Bohemian,Loose,Flowing,Bright Prints,Vintage,Layering
+Business Casual,Semi-formal,Tailored,Smart,Polished,Comfortable
+Business Formal,Professional,Suits,Ties,Polished Shoes,Formal
+Casual Chic,Comfortable,Stylish,Trendy,Versatile,Effortless
+Classic,Staples,Neutral Colors,Simple Prints,Elegant,Timeless
+Cocktail,Semi-formal,Elegant,Party Wear,Sophisticated,Chic
+Country or Western,Plaid,Denim,Leather Boots,Cowboy Hats,Comfortable
+Eccentric,Unique,Quirky,Unconventional,Bold,Personalized
+Elegant,Graceful,Tasteful,Sophisticated,Classic,Refined
+Emo,Dark colors,Band t-shirts,Skinny jeans,Converse sneakers,Studded accessories
+Ethnic or Traditional,Regional prints,Handmade,Indigenous materials,Colorful,Embroidery
+Gothic,Black,Leather,Lace,Velvet,Corsets
+Grunge,Distressed,Flannel shirts,Loose t-shirts,Boots,Layering
+Hip Hop,Baggy pants,Graphic tees,Sneakers,Gold chains,Baseball caps
+Hipster,Retro,Indie bands tees,Denim,Vintage,Non-traditional patterns
+Industrial,Monochromatic,Structured,Minimalist,Modern,Functional
+Kawaii,Cute,Colorful,Playful,Anime-inspired,Frills
+Lolita,Doll-like,Cute,Victorian-inspired,Lace,Bows
+Luxury,High-quality materials,Designer,Exclusive,Limited,Refined
+Military,Camo,Combat boots,Cargos,Structured,Functional
+Minimalist,Simple,Clean lines,Neutral colors,Functional,Unfussy
+Mod,60s-inspired,Mini skirts,Go-go boots,Bright patterns,Shift dresses
+Nautical,Stripes,Navy,White,Gold buttons,Boat shoes
+Normcore,Basic,Unisex,Functional,Comfortable,Unpretentious
+Pastel Goth,Cute,Dark,Contrasting colors,Mix of soft and hard elements,Gothic symbols
+Pin-up,Retro,50s-inspired,High-waisted shorts,Pencil skirts,Red lipstick
+Preppy,Collared shirts,Khaki pants,Blazers,Plaid,Boat shoes
+Punk,Leather,Spikes,Chains,Band tees,Distressed
+Rave,Bright colors,Neon,Fluorescent,Comfortable,Unusual
+Retro,Vintage-inspired,Time-period specific,Old-school,Classic,Revival
+Romantic,Soft hues,Florals,Delicate fabrics,Lace,Ruffles
+Rocker,Leather jackets,Band tees,Heavy boots,Distressed,Edgy
+Scandinavian,Simple,Functional,Minimalist,Clean lines,Neutral colors
+Skate,Sneakers,Loose tees,Skateboard brands,Comfortable,Functional
+Steampunk,Victorian,Industrial,Corsets,Goggles,Brass
+Streetwear,Urban,Graphic tees,Sneakers,Hoodies,Current trends
+Surfer,Boardshorts,Floral shirts,Sandals,Sun-bleached colors,Relaxed
+Victorian,Lace,Corsets,Long skirts,High collars,Intricate details
+Vintage,Clothing from another era,Retro,Antique,Time-period specific,Classic
+Workwear,Functional,Durable,Straightforward,Comfortable,Practical
+Yacht Club,Preppy,Nautical,Expensive,Classic,Polished
+Zoot Suit,High-waisted,Long jackets,Colorful,Flashy,40s-inspired
+Androgynous,Non-gender specific,Minimalistic,Structured,Simple,Edgy
+Art Deco,Geometric shapes,Bold colors,Elaborate,1920s-inspired,Glamorous
+Artsy,Unique,Handmade,Colorful,Expressive,Unconventional
+Beatnik,Black,Stripes,Slim fit,1950s-inspired,Minimalistic
+Biker,Leather,Denim,Boots,Black,Rugged
+Bondage,Leather,Chains,Metal,Black,Daring
+Cabana,Lightweight,Colorful,Relaxed fit,Beach-inspired,Comfortable
+```markdown
+Camouflage,Green,Brown,Black,Patterned,Outdoor
+Camp,Exaggerated,Theatrical,Ironic,Colorful,Artistic
+Candy,Colorful,Playful,Bright,Youthful,Fun
+Celestial,Stars,Moons,Space-inspired,Dark,Sparkly
+Celtic,Green,Plaid,White,Irish-inspired,Traditional
+Ceremonial,Formal,Elegant,Traditional,Ornate,Structured
+Cholo,Buttoned shirts,Khakis,Bandanas,Loose fit,Street-inspired
+Club Kid,Bright,Neon,Unconventional,Extravagant,Party-inspired
+Cottagecore,Floral,Lace,Soft colors,Comfortable,Romantic
+Cowpunk,Leather,Denim,Western-inspired,Edgy,Rough
+Cyberpunk,Futuristic,Black,Neon,Techno-inspired,Edgy
+Dapper,Well-dressed,Polished,Classic,Formal,Smart
+Dystopian,Distressed,Layered,Dark,Post-apocalyptic,Futuristic
+E-girl,Eyeliner,Chokers,Stripes,Internet-inspired,Edgy
+E-boy,Black,Chains,Plaid,Internet-inspired,Edgy
+Fairy Kei,Pastel,Sparkly,Cute,80s-inspired,Playful
+Flapper,Fringed,Sequins,Short,1920s-inspired,Glamorous
+Ganguro,Dark tan,White makeup,Colorful clothes,Japanese street style,Rebellious
+Gyaru,Glamorous,Manicured,Tanned,Japanese street style,Feminine
+Harajuku,Colorful,Layered,Playful,Japanese street style,Unique
+Heavy Metal,Band tees,Leather,Black,Edgy,Rugged
+Hippie,Peace symbols,Flower prints,Loose fit,70s-inspired,Colorful
+Indie,Knitwear,Denim,Bohemian-inspired,Unique,Artsy
+Jock,Sportswear,Logos,Athletic,Functional,Comfortable
+K-Pop,Colorful,On-trend,Street-inspired,Korean pop culture,Youthful
+Lagenlook,Layered,Loose fit,Asymmetrical,Comfortable,Unstructured
+Lumbersexual,Plaid,Denim,Beards,Outdoorsy,Rugged
+Mall Goth,Black,Lace,Chokers,Mall-inspired,Gothic
+Modest,Covered,Loose fit,Elegant,Respectful,Comfortable
+Mori Girl,Natural colors,Loose fit,Layers,Japanese street style,Forest-inspired
+Nerd,High-waisted pants,Buttoned shirts,Glasses,Book-inspired,Socially awkward
+New Romantic,Frills,Makeup,80s-inspired,Androgynous,Glamorous
+Nu Goth,Black,Pastel,Modern,Gothic,Witchy
+Otaku,Anime tees,Colorful,Japanese pop culture,Geeky,Playful
+Peaky Blinders,Three-piece suits,Flat caps,20s-inspired,Working class,Gritty
+Pinup,Red lipstick,Polka dots,50s-inspired,Sexy,Vintage
+Preppy,Plaid,Blazers,Khaki,Classic,Private school-inspired
+Psychobilly,Leopard print,Denim,Tattoos,Rockabilly,Gothic
+Punk,Leather,Spikes,Chains,Anarchy symbols,Edgy
+Rapper,Gold chains,Sneakers,Designer brands,Luxury,Street-inspired
+Rave,Neon,Bright,Comfortable,Party-inspired,Unconventional
+Regency,Elegant,High-waisted,Empire silhouettes,1800s-inspired,Formal
+Renaissance,Corsets,Flowing skirts,Ornate,1500s-inspired,Formal
+Rocker,Leather,Denim,Boots,Edgy,Rugged
+Rodeo,Denim,Boots,Hats,Western-inspired,Functional
+Sailor,Nautical,Stripes,White,Classic,Seaside-inspired
+Schoolgirl,Plaid skirts,Blazers,White socks,Uniform-inspired,Cute
+Sci-fi,Futuristic,Silver,Techno-inspired,Unconventional,Space-inspired
+Scene,Colorful hair,Skinny jeans,Band tees,Internet-inspired,Expressive
+Skater,Loose tees,Beanies,Sneakers,Comfortable,Functional
+Skinhead,Polo shirts,Boots,Braces,Working class,Rebellious
+Soft Girl,Pastel,Pleated skirts,Soft fabrics,Internet-inspired,Cute
+Southern Belle,Lace,Floral,Long dresses,1800s-inspired,Elegant
+Space Age,Silver,Futuristic,Mod,1960s-inspired,Space travel-inspired
