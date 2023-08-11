@@ -3,7 +3,7 @@
 ## CLIP zero-shot for auto tagging the photo
 
 <div align="center">
-    <img width=600 src="imgs/clip" /><figcaption>CLIP illustration</figcaption>
+    <img width=600 src="imgs/clip.png" /><figcaption>CLIP illustration</figcaption>
 </div>
 
 
